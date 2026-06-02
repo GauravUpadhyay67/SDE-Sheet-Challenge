@@ -17,7 +17,7 @@
 | Day | Date | Topic | Problem | Difficulty | Status |
 |-----|------|--------|---------|------------|--------|
 | 1 | Jun 01, 2026 | Arrays | Set Matrix Zeroes | Medium | ✅ |
-| 1 | Jun 01, 2026 | Arrays | Pascal's Triangle | Easy | ⏳ |
+| 1 | Jun 02, 2026 | Arrays | Pascal's Triangle | Easy | ✅ |
 | 1 | Jun 01, 2026 | Arrays | Next Permutation | Medium | ⏳ |
 | 1 | Jun 01, 2026 | Arrays | Kadane's Algorithm | Medium | ⏳ |
 | 1 | Jun 01, 2026 | Arrays | Sort 0s 1s 2s | Easy | ⏳ |
