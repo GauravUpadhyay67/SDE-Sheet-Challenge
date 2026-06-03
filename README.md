@@ -17,13 +17,13 @@
 | Day | Date | Topic | Problem | Difficulty | Status |
 |-----|------|--------|---------|------------|--------|
 | 1 | Jun 01, 2026 | Arrays | Set Matrix Zeroes | Medium | ✅ |
-| 1 | Jun 02, 2026 | Arrays | Pascal's Triangle | Easy | ✅ |
-| 1 | Jun 01, 2026 | Arrays | Next Permutation | Medium | ⏳ |
-| 1 | Jun 01, 2026 | Arrays | Kadane's Algorithm | Medium | ⏳ |
-| 1 | Jun 01, 2026 | Arrays | Sort 0s 1s 2s | Easy | ⏳ |
-| 1 | Jun 01, 2026 | Arrays | Stock Buy & Sell | Easy | ⏳ |
-| 2 | | | | | |
-| 3 | | | | | |
+| 2 | Jun 02, 2026 | Arrays | Pascal's Triangle | Easy | ✅ |
+| 3 | Jun 03, 2026 | Arrays | Next Permutation | Medium | ✅ |
+| 3 | Jun 03, 2026 | Arrays | Kadane's Algorithm | Medium | ✅ |
+| 3 | Jun 03, 2026 | Arrays | Sort 0s 1s 2s | Easy | ✅ |
+| 3 | Jun 03, 2026 | Arrays | Stock Buy & Sell | Easy | ✅ |
+| 4 | | | | | |
+| 5 | | | | | |
 
 ---
 
@@ -31,7 +31,7 @@
 
 | # | Topic | Total Problems | Solved | Status |
 |---|-------|---------------|--------|--------|
-| 1 | Arrays | 6 | 1 | 🔄 In Progress |
+| 1 | Arrays | 6 | 6 | ✅ Done |
 | 2 | Math | 7 | 0 | ⏳ Pending |
 | 3 | Hashing | 4 | 0 | ⏳ Pending |
 | 4 | Sorting | 7 | 0 | ⏳ Pending |
@@ -51,10 +51,9 @@
 ---
 
 ## 🏆 Stats
-
-![Problems Solved](https://img.shields.io/badge/Solved-1%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-1%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-1%20day-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-6%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-3%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-3%20days-orange)
 
 ---
 
