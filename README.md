@@ -22,8 +22,9 @@
 | 3 | Jun 03, 2026 | Arrays | Kadane's Algorithm | Medium | ✅ |
 | 3 | Jun 03, 2026 | Arrays | Sort 0s 1s 2s | Easy | ✅ |
 | 3 | Jun 03, 2026 | Arrays | Stock Buy & Sell | Easy | ✅ |
-| 4 | | | | | |
-| 5 | | | | | |
+| 4 | Jun 04, 2026 | Arrays Part-II | Rotate Matrix 90° | Medium | ✅ |
+| 4 | Jun 04, 2026 | Arrays Part-II | Merge Overlapping Intervals | Medium | ✅ |
+| 4 | Jun 04, 2026 | Arrays Part-II | Merge Two Sorted Arrays | Medium | ✅ |
 
 ---
 
@@ -31,29 +32,28 @@
 
 | # | Topic | Total Problems | Solved | Status |
 |---|-------|---------------|--------|--------|
-| 1 | Arrays | 6 | 6 | ✅ Done |
-| 2 | Math | 7 | 0 | ⏳ Pending |
-| 3 | Hashing | 4 | 0 | ⏳ Pending |
-| 4 | Sorting | 7 | 0 | ⏳ Pending |
-| 5 | Strings | 7 | 0 | ⏳ Pending |
-| 6 | Linked List | 13 | 0 | ⏳ Pending |
-| 7 | 2-Pointer | 5 | 0 | ⏳ Pending |
-| 8 | Greedy | 16 | 0 | ⏳ Pending |
-| 9 | Recursion & Backtracking | 9 | 0 | ⏳ Pending |
-| 10 | Binary Search | 10 | 0 | ⏳ Pending |
-| 11 | Heaps | 9 | 0 | ⏳ Pending |
-| 12 | Stack & Queue | 14 | 0 | ⏳ Pending |
-| 13 | Trees | 22 | 0 | ⏳ Pending |
-| 14 | Graph | 18 | 0 | ⏳ Pending |
-| 15 | Dynamic Programming | 20 | 0 | ⏳ Pending |
-| 16 | Tries | 7 | 0 | ⏳ Pending |
-
+| 1 | Arrays Part-I | 6 | 6 | ✅ Done |
+| 2 | Arrays Part-II | 6 | 3 | 🔄 In Progress |
+| 3 | Arrays Part-III | 6 | 0 | ⏳ Pending |
+| 4 | Arrays Part-IV | 6 | 0 | ⏳ Pending |
+| 5 | Linked List | 6 | 0 | ⏳ Pending |
+| 6 | Linked List Part-II | 6 | 0 | ⏳ Pending |
+| 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
+| 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
+| 9 | Recursion | 6 | 0 | ⏳ Pending |
+| 10 | Binary Search | 6 | 0 | ⏳ Pending |
+| 11 | Heaps | 6 | 0 | ⏳ Pending |
+| 12 | Stack & Queue | 6 | 0 | ⏳ Pending |
+| 13 | Trees | 6 | 0 | ⏳ Pending |
+| 14 | Graph | 6 | 0 | ⏳ Pending |
+| 15 | Dynamic Programming | 6 | 0 | ⏳ Pending |
+| 16 | Tries | 6 | 0 | ⏳ Pending |
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-6%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-3%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-3%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-9%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-4%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-4%20days-orange)
 
 ---
 
