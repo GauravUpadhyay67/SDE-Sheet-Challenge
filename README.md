@@ -13,7 +13,6 @@
 ---
 
 ## 📊 Progress Tracker
-
 | Day | Date | Topic | Problem | Difficulty | Status |
 |-----|------|--------|---------|------------|--------|
 | 1 | Jun 01, 2026 | Arrays | Set Matrix Zeroes | Medium | ✅ |
@@ -25,15 +24,15 @@
 | 4 | Jun 04, 2026 | Arrays Part-II | Rotate Matrix 90° | Medium | ✅ |
 | 4 | Jun 04, 2026 | Arrays Part-II | Merge Overlapping Intervals | Medium | ✅ |
 | 4 | Jun 04, 2026 | Arrays Part-II | Merge Two Sorted Arrays | Medium | ✅ |
+| 5 | Jun 05, 2026 | Arrays Part-II | Find the Duplicate Number | Medium | ✅ |
 
 ---
 
 ## 📅 Topics Covered
-
 | # | Topic | Total Problems | Solved | Status |
 |---|-------|---------------|--------|--------|
 | 1 | Arrays Part-I | 6 | 6 | ✅ Done |
-| 2 | Arrays Part-II | 6 | 3 | 🔄 In Progress |
+| 2 | Arrays Part-II | 6 | 4 | 🔄 In Progress |
 | 3 | Arrays Part-III | 6 | 0 | ⏳ Pending |
 | 4 | Arrays Part-IV | 6 | 0 | ⏳ Pending |
 | 5 | Linked List | 6 | 0 | ⏳ Pending |
@@ -51,9 +50,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-9%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-4%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-4%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-10%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-5%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-5%20days-orange)
 
 ---
 
