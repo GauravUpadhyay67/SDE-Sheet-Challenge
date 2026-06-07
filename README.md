@@ -27,6 +27,14 @@
 | 5 | Jun 05, 2026 | Arrays Part-II | Find the Duplicate Number | Medium | ✅ |
 | 6 | Jun 06, 2026 | Arrays Part-II | Find Repeating & Missing Number | Hard | ✅ |
 | 6 | Jun 06, 2026 | Arrays Part-II | Inversion of Array | Hard | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Search in a 2D Matrix | Hard | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Pow(x, n) | Easy | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Majority Element I | Easy | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Majority Element II | Hard | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Grid Unique Paths | Medium | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-III | Reverse Pairs | Hard | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-IV | Two Sum | Easy | ✅ |
+| 7 | Jun 07, 2026 | Arrays Part-IV | 4 Sum | Medium | ✅ |
 
 ---
 
@@ -36,8 +44,8 @@
 |---|-------|---------------|--------|--------|
 | 1 | Arrays Part-I | 6 | 6 | ✅ Done |
 | 2 | Arrays Part-II | 6 | 6 | ✅ Done |
-| 3 | Arrays Part-III | 6 | 0 | ⏳ Pending |
-| 4 | Arrays Part-IV | 6 | 0 | ⏳ Pending |
+| 3 | Arrays Part-III | 6 | 6 | ✅ Done |
+| 4 | Arrays Part-IV | 6 | 2 | 🔄 In Progress |
 | 5 | Linked List | 6 | 0 | ⏳ Pending |
 | 6 | Linked List Part-II | 6 | 0 | ⏳ Pending |
 | 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
@@ -54,9 +62,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-12%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-6%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-6%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-20%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-7%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-7%20days-orange)
 
 ---
 
