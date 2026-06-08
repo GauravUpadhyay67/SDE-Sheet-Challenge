@@ -35,6 +35,10 @@
 | 7 | Jun 07, 2026 | Arrays Part-III | Reverse Pairs | Hard | ✅ |
 | 7 | Jun 07, 2026 | Arrays Part-IV | Two Sum | Easy | ✅ |
 | 7 | Jun 07, 2026 | Arrays Part-IV | 4 Sum | Medium | ✅ |
+| 8 | Jun 08, 2026 | Arrays Part-IV | Longest Consecutive Sequence | Medium | ✅ |
+| 8 | Jun 08, 2026 | Arrays Part-IV | Largest Subarray with K Sum | Medium | ✅ |
+| 8 | Jun 08, 2026 | Arrays Part-IV | Count Subarrays with XOR K | Hard | ✅ |
+| 8 | Jun 08, 2026 | Arrays Part-IV | Longest Substring Without Repeating | Medium | ✅ |
 
 ---
 
@@ -45,26 +49,29 @@
 | 1 | Arrays Part-I | 6 | 6 | ✅ Done |
 | 2 | Arrays Part-II | 6 | 6 | ✅ Done |
 | 3 | Arrays Part-III | 6 | 6 | ✅ Done |
-| 4 | Arrays Part-IV | 6 | 2 | 🔄 In Progress |
+| 4 | Arrays Part-IV | 6 | 6 | ✅ Done |
 | 5 | Linked List | 6 | 0 | ⏳ Pending |
 | 6 | Linked List Part-II | 6 | 0 | ⏳ Pending |
 | 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
 | 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
-| 10 | Binary Search | 6 | 0 | ⏳ Pending |
+| 10 | Binary Search | 8 | 0 | ⏳ Pending |
 | 11 | Heaps | 6 | 0 | ⏳ Pending |
 | 12 | Stack & Queue | 6 | 0 | ⏳ Pending |
-| 13 | Trees | 6 | 0 | ⏳ Pending |
-| 14 | Graph | 6 | 0 | ⏳ Pending |
-| 15 | Dynamic Programming | 6 | 0 | ⏳ Pending |
-| 16 | Tries | 6 | 0 | ⏳ Pending |
+| 13 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
+| 14 | String | 6 | 0 | ⏳ Pending |
+| 15 | Recursion & Backtracking | 6 | 0 | ⏳ Pending |
+| 16 | Trees | 6 | 0 | ⏳ Pending |
+| 17 | Graph | 6 | 0 | ⏳ Pending |
+| 18 | Dynamic Programming | 6 | 0 | ⏳ Pending |
+| 19 | Tries | 6 | 0 | ⏳ Pending |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-20%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-7%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-7%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-24%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-8%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-8%20days-orange)
 
 ---
 
