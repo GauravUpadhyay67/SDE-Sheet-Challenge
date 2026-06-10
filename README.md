@@ -1,5 +1,5 @@
 # 🔥 #SDESheetChallenge — Gaurav Upadhyay
-> Publicly committing to complete **Striver's SDE Sheet** in **60 days**
+> Publicly committing to complete **Striver's SDE Sheet** in **45 days**
 > 191 Problems | Started: June 1, 2026
 
 ---
@@ -42,6 +42,9 @@
 | 9 | Jun 09, 2026 | Linked List | Reverse a Linked List | Medium | ✅ |
 | 9 | Jun 09, 2026 | Linked List | Find Middle of Linked List | Easy | ✅ |
 | 9 | Jun 09, 2026 | Linked List | Merge Two Sorted Lists | Hard | ✅ |
+| 10 | Jun 10, 2026 | Linked List | Remove Nth Node from End | Medium | ✅ |
+| 10 | Jun 10, 2026 | Linked List | Add Two Numbers as LinkedList | Medium | ✅ |
+| 10 | Jun 10, 2026 | Linked List | Delete Node in O(1) | Medium | ✅ |
 
 ---
 
@@ -53,14 +56,14 @@
 | 2 | Arrays Part-II | 6 | 6 | ✅ Done |
 | 3 | Arrays Part-III | 6 | 6 | ✅ Done |
 | 4 | Arrays Part-IV | 6 | 6 | ✅ Done |
-| 5 | Linked List | 6 | 3 | 🔄 In Progress |
+| 5 | Linked List | 6 | 6 | ✅ Done |
 | 6 | Linked List Part-II | 6 | 0 | ⏳ Pending |
 | 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
 | 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
 | 10 | Binary Search | 8 | 0 | ⏳ Pending |
 | 11 | Heaps | 6 | 0 | ⏳ Pending |
-| 12 | Stack & Queue | 6 | 0 | ⏳ Pending |
+| 12 | Stack & Queue | 7 | 0 | ⏳ Pending |
 | 13 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
 | 14 | String | 6 | 0 | ⏳ Pending |
 | 15 | Recursion & Backtracking | 6 | 0 | ⏳ Pending |
@@ -72,9 +75,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-27%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-9%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-9%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-30%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-10%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-10%20days-orange)
 
 ---
 
