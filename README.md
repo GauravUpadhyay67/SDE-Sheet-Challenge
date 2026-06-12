@@ -7,7 +7,7 @@
 ## 📌 Links
 - 📄 [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - 👨‍💻 [My LeetCode](https://leetcode.com/GauravUpadhyay67) 
-- 💼 [LinkedIn](https://linkedin.com/gaurav-software-engineer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-software-engineer)
 
 ---
 
