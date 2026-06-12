@@ -45,6 +45,9 @@
 | 10 | Jun 10, 2026 | Linked List | Remove Nth Node from End | Medium | ✅ |
 | 10 | Jun 10, 2026 | Linked List | Add Two Numbers as LinkedList | Medium | ✅ |
 | 10 | Jun 10, 2026 | Linked List | Delete Node in O(1) | Medium | ✅ |
+| 11 | Jun 11, 2026 | Linked List Part-II | Find Intersection Point of Y LL | Medium | ✅ |
+| 11 | Jun 11, 2026 | Linked List Part-II | Detect a Loop in LL | Medium | ✅ |
+| 11 | Jun 11, 2026 | Linked List Part-II | Reverse LL in Group of Size K | Hard | ✅ |
 
 ---
 
@@ -57,7 +60,7 @@
 | 3 | Arrays Part-III | 6 | 6 | ✅ Done |
 | 4 | Arrays Part-IV | 6 | 6 | ✅ Done |
 | 5 | Linked List | 6 | 6 | ✅ Done |
-| 6 | Linked List Part-II | 6 | 0 | ⏳ Pending |
+| 6 | Linked List Part-II | 6 | 3 | 🔄 In Progress |
 | 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
 | 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
@@ -75,9 +78,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-30%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-10%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-10%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-33%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-11%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-11%20days-orange)
 
 ---
 
