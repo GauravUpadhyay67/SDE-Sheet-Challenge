@@ -48,6 +48,12 @@
 | 11 | Jun 11, 2026 | Linked List Part-II | Find Intersection Point of Y LL | Medium | ✅ |
 | 11 | Jun 11, 2026 | Linked List Part-II | Detect a Loop in LL | Medium | ✅ |
 | 11 | Jun 11, 2026 | Linked List Part-II | Reverse LL in Group of Size K | Hard | ✅ |
+| 12 | Jun 12, 2026 | Linked List Part-II | Check if LL is Palindrome | Medium | ✅ |
+| 12 | Jun 12, 2026 | Linked List Part-II | Find Starting Point in LL | Medium | ✅ |
+| 12 | Jun 12, 2026 | Linked List Part-II | Flattening of LL | Hard | ✅ |
+| 13 | Jun 13, 2026 | Linked List and Arrays | Rotate a LL | Hard | ✅ |
+| 13 | Jun 13, 2026 | Linked List and Arrays | Clone LL with Random Pointer | Hard | ✅ |
+| 13 | Jun 13, 2026 | Linked List and Arrays | 3 Sum | Medium | ✅ |
 
 ---
 
@@ -60,8 +66,8 @@
 | 3 | Arrays Part-III | 6 | 6 | ✅ Done |
 | 4 | Arrays Part-IV | 6 | 6 | ✅ Done |
 | 5 | Linked List | 6 | 6 | ✅ Done |
-| 6 | Linked List Part-II | 6 | 3 | 🔄 In Progress |
-| 7 | Linked List and Arrays | 6 | 0 | ⏳ Pending |
+| 6 | Linked List Part-II | 6 | 6 | ✅ Done |
+| 7 | Linked List and Arrays | 6 | 3 | 🔄 In Progress |
 | 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
 | 10 | Binary Search | 8 | 0 | ⏳ Pending |
@@ -78,9 +84,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-33%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-11%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-11%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-36%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-13%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-13%20days-orange)
 
 ---
 
