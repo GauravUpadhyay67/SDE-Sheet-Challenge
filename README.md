@@ -54,6 +54,9 @@
 | 13 | Jun 13, 2026 | Linked List and Arrays | Rotate a LL | Hard | ✅ |
 | 13 | Jun 13, 2026 | Linked List and Arrays | Clone LL with Random Pointer | Hard | ✅ |
 | 13 | Jun 13, 2026 | Linked List and Arrays | 3 Sum | Medium | ✅ |
+| 14 | Jun 14, 2026 | Linked List and Arrays | Trapping Rainwater | Hard | ✅ |
+| 14 | Jun 14, 2026 | Linked List and Arrays | Remove Duplicates from Sorted Array | Easy | ✅ |
+| 14 | Jun 14, 2026 | Linked List and Arrays | Maximum Consecutive Ones | Easy | ✅ |
 
 ---
 
@@ -67,7 +70,7 @@
 | 4 | Arrays Part-IV | 6 | 6 | ✅ Done |
 | 5 | Linked List | 6 | 6 | ✅ Done |
 | 6 | Linked List Part-II | 6 | 6 | ✅ Done |
-| 7 | Linked List and Arrays | 6 | 3 | 🔄 In Progress |
+| 7 | Linked List and Arrays | 6 | 6 | ✅ Done |
 | 8 | Greedy Algorithm | 6 | 0 | ⏳ Pending |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
 | 10 | Binary Search | 8 | 0 | ⏳ Pending |
@@ -84,9 +87,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-36%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-13%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-13%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-39%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-14%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-14%20days-orange)
 
 ---
 
