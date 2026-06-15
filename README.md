@@ -60,6 +60,7 @@
 | 15 | Jun 15, 2026 | Greedy Algorithm | N Meetings in One Room | Medium | ✅ |
 | 15 | Jun 15, 2026 | Greedy Algorithm | Minimum Platforms for Railway | Medium | ✅ |
 | 15 | Jun 15, 2026 | Greedy Algorithm | Job Sequencing Problem | Medium | ✅ |
+| 15 | Jun 15, 2026 | Greedy Algorithm | Fractional Knapsack | Medium | ✅ |
 
 ---
 
@@ -74,7 +75,7 @@
 | 5 | Linked List | 6 | 6 | ✅ Done |
 | 6 | Linked List Part-II | 6 | 6 | ✅ Done |
 | 7 | Linked List and Arrays | 6 | 6 | ✅ Done |
-| 8 | Greedy Algorithm | 6 | 3 | 🔄 In Progress |
+| 8 | Greedy Algorithm | 6 | 4 | 🔄 In Progress |
 | 9 | Recursion | 6 | 0 | ⏳ Pending |
 | 10 | Binary Search | 8 | 0 | ⏳ Pending |
 | 11 | Heaps | 6 | 0 | ⏳ Pending |
@@ -90,7 +91,7 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-42%2F191-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-43%2F191-brightgreen)
 ![Days Completed](https://img.shields.io/badge/Day-15%2F45-blue)
 ![Streak](https://img.shields.io/badge/Streak-15%20days-orange)
 
