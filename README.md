@@ -65,6 +65,10 @@
 | 16 | Jun 16, 2026 | Greedy Algorithm | Assign Cookies | Easy | ✅ |
 | 16 | Jun 16, 2026 | Recursion | Subset Sums | Hard | ✅ |
 | 16 | Jun 16, 2026 | Recursion | Subsets II | Medium | ✅ |
+| 17 | Jun 17, 2026 | Recursion | Combination Sum | Medium | ✅ |
+| 17 | Jun 17, 2026 | Recursion | Combination Sum II | Medium | ✅ |
+| 17 | Jun 17, 2026 | Recursion | Palindrome Partitioning | Hard | ✅ |
+| 17 | Jun 17, 2026 | Recursion | Permutation Sequence | Medium | ✅ |
 
 ---
 
@@ -80,7 +84,7 @@
 | 6 | Linked List Part-II | 6 | 6 | ✅ Done |
 | 7 | Linked List and Arrays | 6 | 6 | ✅ Done |
 | 8 | Greedy Algorithm | 6 | 6 | ✅ Done |
-| 9 | Recursion | 6 | 2 | 🔄 In Progress |
+| 9 | Recursion | 6 | 6 | ✅ Done |
 | 10 | Binary Search | 8 | 0 | ⏳ Pending |
 | 11 | Heaps | 6 | 0 | ⏳ Pending |
 | 12 | Stack & Queue | 7 | 0 | ⏳ Pending |
@@ -95,9 +99,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-47%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-16%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-16%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-51%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-17%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-17%20days-orange)
 
 ---
 
