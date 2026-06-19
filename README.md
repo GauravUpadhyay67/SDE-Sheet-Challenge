@@ -105,7 +105,7 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-57%2F191-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-60%2F191-brightgreen)
 ![Days Completed](https://img.shields.io/badge/Day-19%2F45-blue)
 ![Streak](https://img.shields.io/badge/Streak-19%20days-orange)
 
