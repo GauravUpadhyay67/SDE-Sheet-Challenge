@@ -69,6 +69,12 @@
 | 17 | Jun 17, 2026 | Recursion | Combination Sum II | Medium | ✅ |
 | 17 | Jun 17, 2026 | Recursion | Palindrome Partitioning | Hard | ✅ |
 | 17 | Jun 17, 2026 | Recursion | Permutation Sequence | Medium | ✅ |
+| 18 | Jun 18, 2026 | Recursion & Backtracking | Permutations of a String | Medium | ✅ |
+| 18 | Jun 18, 2026 | Recursion & Backtracking | N Queen | Hard | ✅ |
+| 18 | Jun 18, 2026 | Recursion & Backtracking | Sudoku Solver | Hard | ✅ |
+| 19 | Jun 19, 2026 | Recursion & Backtracking | M Coloring Problem | Hard | ✅ |
+| 19 | Jun 19, 2026 | Recursion & Backtracking | Rat in a Maze | Hard | ✅ |
+| 19 | Jun 19, 2026 | Recursion & Backtracking | Word Break (Print all ways) | Medium | ✅ |
 
 ---
 
@@ -85,12 +91,12 @@
 | 7 | Linked List and Arrays | 6 | 6 | ✅ Done |
 | 8 | Greedy Algorithm | 6 | 6 | ✅ Done |
 | 9 | Recursion | 6 | 6 | ✅ Done |
-| 10 | Binary Search | 8 | 0 | ⏳ Pending |
-| 11 | Heaps | 6 | 0 | ⏳ Pending |
-| 12 | Stack & Queue | 7 | 0 | ⏳ Pending |
-| 13 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
-| 14 | String | 6 | 0 | ⏳ Pending |
-| 15 | Recursion & Backtracking | 6 | 0 | ⏳ Pending |
+| 10 | Recursion & Backtracking | 6 | 6 | ✅ Done |
+| 11 | Binary Search | 8 | 0 | ⏳ Pending |
+| 12 | Heaps | 6 | 0 | ⏳ Pending |
+| 13 | Stack & Queue | 7 | 0 | ⏳ Pending |
+| 14 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
+| 15 | String | 6 | 0 | ⏳ Pending |
 | 16 | Trees | 6 | 0 | ⏳ Pending |
 | 17 | Graph | 6 | 0 | ⏳ Pending |
 | 18 | Dynamic Programming | 6 | 0 | ⏳ Pending |
@@ -99,9 +105,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-51%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-17%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-17%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-57%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-19%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-19%20days-orange)
 
 ---
 
