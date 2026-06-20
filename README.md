@@ -75,6 +75,10 @@
 | 19 | Jun 19, 2026 | Recursion & Backtracking | M Coloring Problem | Hard | ✅ |
 | 19 | Jun 19, 2026 | Recursion & Backtracking | Rat in a Maze | Hard | ✅ |
 | 19 | Jun 19, 2026 | Recursion & Backtracking | Word Break (Print all ways) | Medium | ✅ |
+| 20 | Jun 20, 2026 | Binary Search | N-th Root of Integer | Medium | ✅ |
+| 20 | Jun 20, 2026 | Binary Search | Matrix Median | Hard | ✅ |
+| 20 | Jun 20, 2026 | Binary Search | Single Element in Sorted Array | Medium | ✅ |
+| 20 | Jun 20, 2026 | Binary Search | Search in Rotated Sorted Array | Medium | ✅ |
 
 ---
 
@@ -92,7 +96,7 @@
 | 8 | Greedy Algorithm | 6 | 6 | ✅ Done |
 | 9 | Recursion | 6 | 6 | ✅ Done |
 | 10 | Recursion & Backtracking | 6 | 6 | ✅ Done |
-| 11 | Binary Search | 8 | 0 | ⏳ Pending |
+| 11 | Binary Search | 8 | 4 | 🔄 In Progress |
 | 12 | Heaps | 6 | 0 | ⏳ Pending |
 | 13 | Stack & Queue | 7 | 0 | ⏳ Pending |
 | 14 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
@@ -105,9 +109,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-60%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-19%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-19%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-64%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-20%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-20%20days-orange)
 
 ---
 
