@@ -79,6 +79,10 @@
 | 20 | Jun 20, 2026 | Binary Search | Matrix Median | Hard | ✅ |
 | 20 | Jun 20, 2026 | Binary Search | Single Element in Sorted Array | Medium | ✅ |
 | 20 | Jun 20, 2026 | Binary Search | Search in Rotated Sorted Array | Medium | ✅ |
+| 21 | Jun 21, 2026 | Binary Search | Median of 2 Sorted Arrays | Hard | ✅ |
+| 21 | Jun 21, 2026 | Binary Search | Kth Element of 2 Sorted Arrays | Medium | ✅ |
+| 21 | Jun 21, 2026 | Binary Search | Allocate Minimum Number of Pages | Hard | ✅ |
+| 21 | Jun 21, 2026 | Binary Search | Aggressive Cows | Hard | ✅ |
 
 ---
 
@@ -96,22 +100,24 @@
 | 8 | Greedy Algorithm | 6 | 6 | ✅ Done |
 | 9 | Recursion | 6 | 6 | ✅ Done |
 | 10 | Recursion & Backtracking | 6 | 6 | ✅ Done |
-| 11 | Binary Search | 8 | 4 | 🔄 In Progress |
+| 11 | Binary Search | 8 | 8 | ✅ Done |
 | 12 | Heaps | 6 | 0 | ⏳ Pending |
 | 13 | Stack & Queue | 7 | 0 | ⏳ Pending |
 | 14 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
 | 15 | String | 6 | 0 | ⏳ Pending |
-| 16 | Trees | 6 | 0 | ⏳ Pending |
-| 17 | Graph | 6 | 0 | ⏳ Pending |
-| 18 | Dynamic Programming | 6 | 0 | ⏳ Pending |
-| 19 | Tries | 6 | 0 | ⏳ Pending |
+| 16 | String Part-II | 6 | 0 | ⏳ Pending |
+| 17 | Binary Tree | 12 | 0 | ⏳ Pending |
+| 18 | Binary Tree Part-II | 8 | 0 | ⏳ Pending |
+| 19 | Graph | 6 | 0 | ⏳ Pending |
+| 20 | Dynamic Programming | 6 | 0 | ⏳ Pending |
+| 21 | Tries | 6 | 0 | ⏳ Pending |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-64%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-20%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-20%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-68%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-21%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-21%20days-orange)
 
 ---
 
