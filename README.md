@@ -83,6 +83,12 @@
 | 21 | Jun 21, 2026 | Binary Search | Kth Element of 2 Sorted Arrays | Medium | ✅ |
 | 21 | Jun 21, 2026 | Binary Search | Allocate Minimum Number of Pages | Hard | ✅ |
 | 21 | Jun 21, 2026 | Binary Search | Aggressive Cows | Hard | ✅ |
+| 22 | Jun 22, 2026 | Heaps | Implement Max Heap | Medium | ✅ |
+| 22 | Jun 22, 2026 | Heaps | Kth Largest Element in an Array | Medium | ✅ |
+| 22 | Jun 22, 2026 | Heaps | Maximum Sum Combination | Hard | ✅ |
+| 23 | Jun 23, 2026 | Heaps | Find Median from Data Stream | Hard | ✅ |
+| 23 | Jun 23, 2026 | Heaps | Merge K Sorted Arrays | Medium | ✅ |
+| 23 | Jun 23, 2026 | Heaps | Top K Frequent Elements | Medium | ✅ |
 
 ---
 
@@ -101,7 +107,7 @@
 | 9 | Recursion | 6 | 6 | ✅ Done |
 | 10 | Recursion & Backtracking | 6 | 6 | ✅ Done |
 | 11 | Binary Search | 8 | 8 | ✅ Done |
-| 12 | Heaps | 6 | 0 | ⏳ Pending |
+| 12 | Heaps | 6 | 6 | ✅ Done |
 | 13 | Stack & Queue | 7 | 0 | ⏳ Pending |
 | 14 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
 | 15 | String | 6 | 0 | ⏳ Pending |
@@ -115,9 +121,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-68%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-21%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-21%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-77%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-23%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-23%20days-orange)
 
 ---
 
