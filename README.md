@@ -121,7 +121,7 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-77%2F191-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-74%2F191-brightgreen)
 ![Days Completed](https://img.shields.io/badge/Day-23%2F45-blue)
 ![Streak](https://img.shields.io/badge/Streak-23%20days-orange)
 
