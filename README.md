@@ -93,6 +93,9 @@
 | 24 | Jun 24, 2026 | Stack & Queue | Implement Queue using Arrays | Easy | ✅ |
 | 24 | Jun 24, 2026 | Stack & Queue | Implement Stack using Queue | Easy | ✅ |
 | 24 | Jun 24, 2026 | Stack & Queue | Implement Queue using Stack | Easy | ✅ |
+| 25 | Jun 25, 2026 | Stack & Queue | Balanced Parentheses | Easy | ✅ |
+| 25 | Jun 25, 2026 | Stack & Queue | Next Greater Element | Medium | ✅ |
+| 25 | Jun 25, 2026 | Stack & Queue | Sort a Stack | Medium | ✅ |
 
 ---
 
@@ -112,7 +115,7 @@
 | 10 | Recursion & Backtracking | 6 | 6 | ✅ Done |
 | 11 | Binary Search | 8 | 8 | ✅ Done |
 | 12 | Heaps | 6 | 6 | ✅ Done |
-| 13 | Stack & Queue | 7 | 4 | 🔄 In Progress |
+| 13 | Stack & Queue | 7 | 7 | ✅ Done |
 | 14 | Stack & Queue Part-II | 10 | 0 | ⏳ Pending |
 | 15 | String | 6 | 0 | ⏳ Pending |
 | 16 | String Part-II | 6 | 0 | ⏳ Pending |
@@ -125,9 +128,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-78%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-24%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-24%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-81%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-25%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-25%20days-orange)
 
 ---
 
