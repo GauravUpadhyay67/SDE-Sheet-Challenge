@@ -103,6 +103,9 @@
 | 27 | Jun 27, 2026 | Stack & Queue Part-II | Sliding Window Maximum | Hard | ✅ |
 | 27 | Jun 27, 2026 | Stack & Queue Part-II | Implement Min Stack | Hard | ✅ |
 | 27 | Jun 27, 2026 | Stack & Queue Part-II | Rotten Oranges | Medium | ✅ |
+| 28 | Jun 28, 2026 | Stack & Queue Part-II | Stock Span Problem | Hard | ✅ |
+| 28 | Jun 28, 2026 | Stack & Queue Part-II | Maximum of Minimums for Every Window | Medium | ✅ |
+| 28 | Jun 28, 2026 | Stack & Queue Part-II | Celebrity Problem | Hard | ✅ |
 
 ---
 
@@ -123,7 +126,7 @@
 | 11 | Binary Search | 8 | 8 | ✅ Done |
 | 12 | Heaps | 6 | 6 | ✅ Done |
 | 13 | Stack & Queue | 7 | 7 | ✅ Done |
-| 14 | Stack & Queue Part-II | 10 | 7 | 🔄 In Progress |
+| 14 | Stack & Queue Part-II | 10 | 10 | ✅ Done |
 | 15 | String | 6 | 0 | ⏳ Pending |
 | 16 | String Part-II | 6 | 0 | ⏳ Pending |
 | 17 | Binary Tree | 12 | 0 | ⏳ Pending |
@@ -135,9 +138,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-88%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-27%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-27%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-91%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-28%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-28%20days-orange)
 
 ---
 
