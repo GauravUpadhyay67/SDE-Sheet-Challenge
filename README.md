@@ -106,6 +106,9 @@
 | 28 | Jun 28, 2026 | Stack & Queue Part-II | Stock Span Problem | Hard | ✅ |
 | 28 | Jun 28, 2026 | Stack & Queue Part-II | Maximum of Minimums for Every Window | Medium | ✅ |
 | 28 | Jun 28, 2026 | Stack & Queue Part-II | Celebrity Problem | Hard | ✅ |
+| 29 | Jun 29, 2026 | String | Reverse Every Word in a String | Medium | ✅ |
+| 29 | Jun 29, 2026 | String | Longest Palindrome in a String | Medium | ✅ |
+| 29 | Jun 29, 2026 | String | Roman to Integer | Medium | ✅ |
 
 ---
 
@@ -127,7 +130,7 @@
 | 12 | Heaps | 6 | 6 | ✅ Done |
 | 13 | Stack & Queue | 7 | 7 | ✅ Done |
 | 14 | Stack & Queue Part-II | 10 | 10 | ✅ Done |
-| 15 | String | 6 | 0 | ⏳ Pending |
+| 15 | String | 6 | 3 | 🔄 In Progress |
 | 16 | String Part-II | 6 | 0 | ⏳ Pending |
 | 17 | Binary Tree | 12 | 0 | ⏳ Pending |
 | 18 | Binary Tree Part-II | 8 | 0 | ⏳ Pending |
@@ -138,9 +141,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-91%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-28%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-28%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-94%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-29%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-29%20days-orange)
 
 ---
 
