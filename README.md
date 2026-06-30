@@ -109,6 +109,9 @@
 | 29 | Jun 29, 2026 | String | Reverse Every Word in a String | Medium | ✅ |
 | 29 | Jun 29, 2026 | String | Longest Palindrome in a String | Medium | ✅ |
 | 29 | Jun 29, 2026 | String | Roman to Integer | Medium | ✅ |
+| 30 | Jun 30, 2026 | String | Implement ATOI/STRSTR | Medium | ✅ |
+| 30 | Jun 30, 2026 | String | Longest Common Prefix | Easy | ✅ |
+| 30 | Jun 30, 2026 | String | Rabin Karp Algorithm | Hard | ✅ |
 
 ---
 
@@ -130,7 +133,7 @@
 | 12 | Heaps | 6 | 6 | ✅ Done |
 | 13 | Stack & Queue | 7 | 7 | ✅ Done |
 | 14 | Stack & Queue Part-II | 10 | 10 | ✅ Done |
-| 15 | String | 6 | 3 | 🔄 In Progress |
+| 15 | String | 6 | 6 | ✅ Done |
 | 16 | String Part-II | 6 | 0 | ⏳ Pending |
 | 17 | Binary Tree | 12 | 0 | ⏳ Pending |
 | 18 | Binary Tree Part-II | 8 | 0 | ⏳ Pending |
@@ -141,9 +144,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-94%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-29%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-29%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-97%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-30%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-30%20days-orange)
 
 ---
 
