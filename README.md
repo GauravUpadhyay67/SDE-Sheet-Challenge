@@ -115,6 +115,9 @@
 | 31 | Jul 01, 2026 | String Part-II | Z Function | Hard | ✅ |
 | 31 | Jul 01, 2026 | String Part-II | KMP Algorithm / LPS Array | Hard | ✅ |
 | 31 | Jul 01, 2026 | String Part-II | Min Insertions to Make Palindrome | Hard | ✅ |
+| 32 | Jul 02, 2026 | String Part-II | Valid Anagram | Easy | ✅ |
+| 32 | Jul 02, 2026 | String Part-II | Count and Say | Hard | ✅ |
+| 32 | Jul 02, 2026 | String Part-II | Compare Version Numbers | Medium | ✅ |
 
 ---
 
@@ -137,7 +140,7 @@
 | 13 | Stack & Queue | 7 | 7 | ✅ Done |
 | 14 | Stack & Queue Part-II | 10 | 10 | ✅ Done |
 | 15 | String | 6 | 6 | ✅ Done |
-| 16 | String Part-II | 6 | 3 | 🔄 In Progress |
+| 16 | String Part-II | 6 | 6 | ✅ Done |
 | 17 | Binary Tree | 12 | 0 | ⏳ Pending |
 | 18 | Binary Tree Part-II | 8 | 0 | ⏳ Pending |
 | 19 | Graph | 6 | 0 | ⏳ Pending |
@@ -147,9 +150,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-100%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-31%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-31%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-103%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-32%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-32%20days-orange)
 
 ---
 
