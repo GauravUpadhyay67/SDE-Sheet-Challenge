@@ -126,6 +126,10 @@
 | 34 | Jul 04, 2026 | Binary Tree | Right/Left View of BT | Medium | ✅ |
 | 34 | Jul 04, 2026 | Binary Tree | Bottom View of BT | Medium | ✅ |
 | 34 | Jul 04, 2026 | Binary Tree | Top View of BT | Medium | ✅ |
+| 35 | Jul 05, 2026 | Binary Tree | Pre+Post+Inorder in One Traversal | Easy | ✅ |
+| 35 | Jul 05, 2026 | Binary Tree | Vertical Order Traversal | Medium | ✅ |
+| 35 | Jul 05, 2026 | Binary Tree | Print Root to Leaf Path | Medium | ✅ |
+| 35 | Jul 05, 2026 | Binary Tree | Maximum Width of BT | Medium | ✅ |
 
 ---
 
@@ -149,7 +153,7 @@
 | 14 | Stack & Queue Part-II | 10 | 10 | ✅ Done |
 | 15 | String | 6 | 6 | ✅ Done |
 | 16 | String Part-II | 6 | 6 | ✅ Done |
-| 17 | Binary Tree | 12 | 8 | 🔄 In Progress |
+| 17 | Binary Tree | 12 | 12 | ✅ Done |
 | 18 | Binary Tree Part-II | 8 | 0 | ⏳ Pending |
 | 19 | Graph | 6 | 0 | ⏳ Pending |
 | 20 | Dynamic Programming | 6 | 0 | ⏳ Pending |
@@ -158,9 +162,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-111%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-34%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-34%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-115%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-35%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-35%20days-orange)
 
 ---
 
