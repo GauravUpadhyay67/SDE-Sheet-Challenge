@@ -134,6 +134,10 @@
 | 36 | Jul 06, 2026 | Binary Tree Part-II | Maximum Depth of BT | Medium | ✅ |
 | 36 | Jul 06, 2026 | Binary Tree Part-II | Diameter of Binary Tree | Easy | ✅ |
 | 36 | Jul 06, 2026 | Binary Tree Part-II | Check Balanced Binary Tree | Medium | ✅ |
+| 37 | Jul 07, 2026 | Binary Tree Part-II | LCA in BT | Hard | ✅ |
+| 37 | Jul 07, 2026 | Binary Tree Part-II | Check if Two Trees are Identical | Medium | ✅ |
+| 37 | Jul 07, 2026 | Binary Tree Part-II | Zig Zag or Spiral Traversal | Medium | ✅ |
+| 37 | Jul 07, 2026 | Binary Tree Part-II | Boundary Traversal | Medium | ✅ |
 
 ---
 
@@ -158,7 +162,7 @@
 | 15 | String | 6 | 6 | ✅ Done |
 | 16 | String Part-II | 6 | 6 | ✅ Done |
 | 17 | Binary Tree | 12 | 12 | ✅ Done |
-| 18 | Binary Tree Part-II | 8 | 4 | 🔄 In Progress |
+| 18 | Binary Tree Part-II | 8 | 8 | ✅ Done |
 | 19 | Graph | 6 | 0 | ⏳ Pending |
 | 20 | Dynamic Programming | 6 | 0 | ⏳ Pending |
 | 21 | Tries | 6 | 0 | ⏳ Pending |
@@ -166,9 +170,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-119%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-36%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-36%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-123%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-37%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-37%20days-orange)
 
 ---
 
