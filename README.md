@@ -139,8 +139,12 @@
 | 37 | Jul 07, 2026 | Binary Tree Part-II | Zig Zag or Spiral Traversal | Medium | ✅ |
 | 37 | Jul 07, 2026 | Binary Tree Part-II | Boundary Traversal | Medium | ✅ |
 | 38 | Jul 08, 2026 | Binary Tree Part-III | Maximum Path Sum | Hard | ✅ |
-| 38 | Jul 08, 2026 | Binary Tree Part-III | Construct a BT from Preorder and Inorder | Hard | ✅ |
-| 38 | Jul 08, 2026 | Binary Tree Part-III | Construct a BT from Postorder and Inorder | Hard | ✅ |
+| 38 | Jul 08, 2026 | Binary Tree Part-III | Construct BT from Preorder and Inorder | Hard | ✅ |
+| 38 | Jul 08, 2026 | Binary Tree Part-III | Construct BT from Postorder and Inorder | Hard | ✅ |
+| 39 | Jul 09, 2026 | Binary Tree Part-III | Symmetric Binary Tree | Medium | ✅ |
+| 39 | Jul 09, 2026 | Binary Tree Part-III | Flatten BT to Linked List | Medium | ✅ |
+| 39 | Jul 09, 2026 | Binary Tree Part-III | Check for Symmetrical BTs | Medium | ✅ |
+| 39 | Jul 09, 2026 | Binary Tree Part-III | Children Sum Property in BT | Medium | ✅ |
 
 ---
 
@@ -166,7 +170,7 @@
 | 16 | String Part-II | 6 | 6 | ✅ Done |
 | 17 | Binary Tree | 12 | 12 | ✅ Done |
 | 18 | Binary Tree Part-II | 8 | 8 | ✅ Done |
-| 19 | Binary Tree Part-III | 7 | 3 | 🔄 In Progress |
+| 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
 | 20 | Graph | 6 | 0 | ⏳ Pending |
 | 21 | Dynamic Programming | 6 | 0 | ⏳ Pending |
 | 22 | Tries | 6 | 0 | ⏳ Pending |
@@ -174,9 +178,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-126%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-38%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-38%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-130%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-39%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-39%20days-orange)
 
 ---
 
