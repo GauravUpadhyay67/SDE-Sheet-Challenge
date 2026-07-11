@@ -145,6 +145,13 @@
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Flatten BT to Linked List | Medium | ✅ |
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Check for Symmetrical BTs | Medium | ✅ |
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Children Sum Property in BT | Medium | ✅ |
+| 40 | Jul 10, 2026 | Binary Search Tree | Populating Next Right Pointers in Each Node | Medium | ✅ |
+| 40 | Jul 10, 2026 | Binary Search Tree | Search in BST | Easy | ✅ |
+| 40 | Jul 10, 2026 | Binary Search Tree | Construct BST from Given Keys | Easy | ✅ |
+| 41 | Jul 11, 2026 | Binary Search Tree | Construct BST from Preorder Traversal | Medium | ✅ |
+| 41 | Jul 11, 2026 | Binary Search Tree | Check if a Tree is BST or Not | Medium | ✅ |
+| 41 | Jul 11, 2026 | Binary Search Tree | LCA in BST | Medium | ✅ |
+| 41 | Jul 11, 2026 | Binary Search Tree | Inorder Successor and Predecessor in BST | Medium | ✅ |
 
 ---
 
@@ -171,16 +178,17 @@
 | 17 | Binary Tree | 12 | 12 | ✅ Done |
 | 18 | Binary Tree Part-II | 8 | 8 | ✅ Done |
 | 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
-| 20 | Graph | 6 | 0 | ⏳ Pending |
-| 21 | Dynamic Programming | 6 | 0 | ⏳ Pending |
-| 22 | Tries | 6 | 0 | ⏳ Pending |
+| 20 | Binary Search Tree | 7 | 7 | ✅ Done |
+| 21 | Graph | 6 | 0 | ⏳ Pending |
+| 22 | Dynamic Programming | 6 | 0 | ⏳ Pending |
+| 23 | Tries | 6 | 0 | ⏳ Pending |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-130%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-39%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-39%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-137%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-41%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-41%20days-orange)
 
 ---
 
