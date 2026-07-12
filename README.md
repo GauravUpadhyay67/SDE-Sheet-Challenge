@@ -152,6 +152,10 @@
 | 41 | Jul 11, 2026 | Binary Search Tree | Check if a Tree is BST or Not | Medium | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | LCA in BST | Medium | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | Inorder Successor and Predecessor in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Floor in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Ceil in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Kth Smallest Element in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Kth Largest Element in BST | Medium | ✅ |
 
 ---
 
@@ -179,16 +183,17 @@
 | 18 | Binary Tree Part-II | 8 | 8 | ✅ Done |
 | 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
-| 21 | Graph | 6 | 0 | ⏳ Pending |
-| 22 | Dynamic Programming | 6 | 0 | ⏳ Pending |
-| 23 | Tries | 6 | 0 | ⏳ Pending |
+| 21 | Binary Search Tree Part-II | 8 | 4 | 🔄 In Progress |
+| 22 | Graph | 6 | 0 | ⏳ Pending |
+| 23 | Dynamic Programming | 6 | 0 | ⏳ Pending |
+| 24 | Tries | 6 | 0 | ⏳ Pending |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-137%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-41%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-41%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-141%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-42%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-42%20days-orange)
 
 ---
 
