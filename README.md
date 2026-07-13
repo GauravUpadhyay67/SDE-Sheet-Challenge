@@ -145,17 +145,21 @@
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Flatten BT to Linked List | Medium | ✅ |
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Check for Symmetrical BTs | Medium | ✅ |
 | 39 | Jul 09, 2026 | Binary Tree Part-III | Children Sum Property in BT | Medium | ✅ |
-| 40 | Jul 10, 2026 | Binary Search Tree | Populating Next Right Pointers in Each Node | Medium | ✅ |
+| 40 | Jul 10, 2026 | Binary Search Tree | Populating Next Right Pointers | Medium | ✅ |
 | 40 | Jul 10, 2026 | Binary Search Tree | Search in BST | Easy | ✅ |
 | 40 | Jul 10, 2026 | Binary Search Tree | Construct BST from Given Keys | Easy | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | Construct BST from Preorder Traversal | Medium | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | Check if a Tree is BST or Not | Medium | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | LCA in BST | Medium | ✅ |
 | 41 | Jul 11, 2026 | Binary Search Tree | Inorder Successor and Predecessor in BST | Medium | ✅ |
-| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Floor in BST | Medium | ✅ |
-| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Ceil in BST | Medium | ✅ |
-| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Kth Smallest Element in BST | Medium | ✅ |
-| 42 | Jul 12, 2026 | Binary Search Tree Part-II | Kth Largest Element in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | BST Part-II | Floor in BST | Easy | ✅ |
+| 42 | Jul 12, 2026 | BST Part-II | Ceil in BST | Easy | ✅ |
+| 42 | Jul 12, 2026 | BST Part-II | Kth Smallest Element in BST | Medium | ✅ |
+| 42 | Jul 12, 2026 | BST Part-II | Kth Largest Element in BST | Medium | ✅ |
+| 43 | Jul 13, 2026 | BST Part-II | Two Sum in BST | Hard | ✅ |
+| 43 | Jul 13, 2026 | BST Part-II | BST Iterator | Hard | ✅ |
+| 43 | Jul 13, 2026 | BST Part-II | Size of Largest BST in BT | Hard | ✅ |
+| 43 | Jul 13, 2026 | BST Part-II | Serialize and De-serialize BT | Hard | ✅ |
 
 ---
 
@@ -183,7 +187,7 @@
 | 18 | Binary Tree Part-II | 8 | 8 | ✅ Done |
 | 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
-| 21 | Binary Search Tree Part-II | 8 | 4 | 🔄 In Progress |
+| 21 | BST Part-II | 8 | 8 | ✅ Done |
 | 22 | Graph | 6 | 0 | ⏳ Pending |
 | 23 | Dynamic Programming | 6 | 0 | ⏳ Pending |
 | 24 | Tries | 6 | 0 | ⏳ Pending |
@@ -191,9 +195,9 @@
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-141%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-42%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-42%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-145%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-43%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-43%20days-orange)
 
 ---
 
