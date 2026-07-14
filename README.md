@@ -160,6 +160,9 @@
 | 43 | Jul 13, 2026 | BST Part-II | BST Iterator | Hard | ✅ |
 | 43 | Jul 13, 2026 | BST Part-II | Size of Largest BST in BT | Hard | ✅ |
 | 43 | Jul 13, 2026 | BST Part-II | Serialize and De-serialize BT | Hard | ✅ |
+| 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Binary Tree to Doubly Linked List | Medium | ✅ |
+| 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Find Median in a Stream | Medium | ✅ |
+| 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Kth Largest Element in a Stream | Hard | ✅ |
 
 ---
 
@@ -188,16 +191,15 @@
 | 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
-| 22 | Graph | 6 | 0 | ⏳ Pending |
-| 23 | Dynamic Programming | 6 | 0 | ⏳ Pending |
-| 24 | Tries | 6 | 0 | ⏳ Pending |
+| 22 | Binary Trees Miscellaneous | 6 | 3 | 🔄 In Progress |
+| 23 | Graph | 12 | 0 | ⏳ Pending |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-145%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-43%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-43%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-148%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-44%2F45-blue)
+![Streak](https://img.shields.io/badge/Streak-44%20days-orange)
 
 ---
 
