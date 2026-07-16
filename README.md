@@ -163,6 +163,12 @@
 | 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Binary Tree to Doubly Linked List | Medium | ✅ |
 | 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Find Median in a Stream | Medium | ✅ |
 | 44 | Jul 14, 2026 | Binary Trees Miscellaneous | Kth Largest Element in a Stream | Hard | ✅ |
+| 45 | Jul 15, 2026 | Binary Trees Miscellaneous | Distinct Numbers in Each Subarray | Medium | ✅ |
+| 45 | Jul 15, 2026 | Binary Trees Miscellaneous | Kth Largest in Unsorted Array | Medium | ✅ |
+| 45 | Jul 15, 2026 | Binary Trees Miscellaneous | Flood Fill Algorithm | Medium | ✅ |
+| 46 | Jul 16, 2026 | Graph | Clone Graph | Medium | ✅ |
+| 46 | Jul 16, 2026 | Graph | DFS of Graph | Medium | ✅ |
+| 46 | Jul 16, 2026 | Graph | BFS / Traversal Techniques | Medium | ✅ |
 
 ---
 
@@ -191,15 +197,15 @@
 | 19 | Binary Tree Part-III | 7 | 7 | ✅ Done |
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
-| 22 | Binary Trees Miscellaneous | 6 | 3 | 🔄 In Progress |
-| 23 | Graph | 12 | 0 | ⏳ Pending |
+| 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
+| 23 | Graph | 12 | 3 | 🔄 In Progress |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-148%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-44%2F45-blue)
-![Streak](https://img.shields.io/badge/Streak-44%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-157%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-46%2F45+-blue)
+![Streak](https://img.shields.io/badge/Streak-46%20days-orange)
 
 ---
 
