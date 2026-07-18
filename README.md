@@ -169,6 +169,12 @@
 | 46 | Jul 16, 2026 | Graph | Clone Graph | Medium | ✅ |
 | 46 | Jul 16, 2026 | Graph | DFS of Graph | Medium | ✅ |
 | 46 | Jul 16, 2026 | Graph | BFS / Traversal Techniques | Medium | ✅ |
+| 47 | Jul 17, 2026 | Graph | Detect Cycle in Undirected Graph (BFS) | Medium | ✅ |
+| 47 | Jul 17, 2026 | Graph | Detect Cycle in Undirected Graph (DFS) | Medium | ✅ |
+| 47 | Jul 17, 2026 | Graph | Detect Cycle in Directed Graph (DFS) | Medium | ✅ |
+| 48 | Jul 18, 2026 | Graph | Detect Cycle in Directed Graph (BFS) | Medium | ✅ |
+| 48 | Jul 18, 2026 | Graph | Topological Sort (BFS - Kahn's Algorithm) | Medium | ✅ |
+| 48 | Jul 18, 2026 | Graph | Topological Sort (DFS) | Medium | ✅ |
 
 ---
 
@@ -198,14 +204,14 @@
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
 | 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
-| 23 | Graph | 12 | 3 | 🔄 In Progress |
+| 23 | Graph | 12 | 9 | 🔄 In Progress |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-157%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-46%2F45+-blue)
-![Streak](https://img.shields.io/badge/Streak-46%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-160%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-48%2F45+-blue)
+![Streak](https://img.shields.io/badge/Streak-48%20days-orange)
 
 ---
 
