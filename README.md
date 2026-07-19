@@ -175,6 +175,9 @@
 | 48 | Jul 18, 2026 | Graph | Detect Cycle in Directed Graph (BFS) | Medium | ✅ |
 | 48 | Jul 18, 2026 | Graph | Topological Sort (BFS - Kahn's Algorithm) | Medium | ✅ |
 | 48 | Jul 18, 2026 | Graph | Topological Sort (DFS) | Medium | ✅ |
+| 49 | Jul 19, 2026 | Graph | Number of Islands | Medium | ✅ |
+| 49 | Jul 19, 2026 | Graph | Bipartite Graph (BFS) | Medium | ✅ |
+| 49 | Jul 19, 2026 | Graph | Bipartite Graph (DFS) | Medium | ✅ |
 
 ---
 
@@ -204,14 +207,14 @@
 | 20 | Binary Search Tree | 7 | 7 | ✅ Done |
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
 | 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
-| 23 | Graph | 12 | 9 | 🔄 In Progress |
+| 23 | Graph | 12 | 12 | ✅ Done |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-160%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-48%2F45+-blue)
-![Streak](https://img.shields.io/badge/Streak-48%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-163%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-49%2F45+-blue)
+![Streak](https://img.shields.io/badge/Streak-49%20days-orange)
 
 ---
 
