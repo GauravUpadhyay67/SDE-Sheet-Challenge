@@ -178,6 +178,9 @@
 | 49 | Jul 19, 2026 | Graph | Number of Islands | Medium | ✅ |
 | 49 | Jul 19, 2026 | Graph | Bipartite Graph (BFS) | Medium | ✅ |
 | 49 | Jul 19, 2026 | Graph | Bipartite Graph (DFS) | Medium | ✅ |
+| 50 | Jul 20, 2026 | Graph Part-II | Strongly Connected Components (Kosaraju's Algorithm) | Hard | ✅ |
+| 50 | Jul 20, 2026 | Graph Part-II | Dijkstra's Algorithm | Hard | ✅ |
+| 50 | Jul 20, 2026 | Graph Part-II | Bellman-Ford Algorithm | Hard | ✅ |
 
 ---
 
@@ -208,13 +211,15 @@
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
 | 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
 | 23 | Graph | 12 | 12 | ✅ Done |
+| 24 | Graph Part-II | 6 | 3 | 🔄 In Progress |
 
 ---
 
 ## 🏆 Stats
-![Problems Solved](https://img.shields.io/badge/Solved-163%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-49%2F45+-blue)
-![Streak](https://img.shields.io/badge/Streak-49%20days-orange)
+
+![Problems Solved](https://img.shields.io/badge/Solved-166%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-50%2F45+-blue)
+![Streak](https://img.shields.io/badge/Streak-50%20days-orange)
 
 ---
 
