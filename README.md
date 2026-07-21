@@ -181,6 +181,9 @@
 | 50 | Jul 20, 2026 | Graph Part-II | Strongly Connected Components (Kosaraju's Algorithm) | Hard | ✅ |
 | 50 | Jul 20, 2026 | Graph Part-II | Dijkstra's Algorithm | Hard | ✅ |
 | 50 | Jul 20, 2026 | Graph Part-II | Bellman-Ford Algorithm | Hard | ✅ |
+| 51 | Jul 21, 2026 | Graph Part-II | Floyd Warshall Algorithm | Medium | ✅ |
+| 51 | Jul 21, 2026 | Graph Part-II | MST using Prim's Algorithm | Hard | ✅ |
+| 51 | Jul 21, 2026 | Graph Part-II | MST using Kruskal's Algorithm | Hard | ✅ |
 
 ---
 
@@ -211,15 +214,15 @@
 | 21 | BST Part-II | 8 | 8 | ✅ Done |
 | 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
 | 23 | Graph | 12 | 12 | ✅ Done |
-| 24 | Graph Part-II | 6 | 3 | 🔄 In Progress |
+| 24 | Graph Part-II | 6 | 6 | ✅ Done |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-166%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-50%2F45+-blue)
-![Streak](https://img.shields.io/badge/Streak-50%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-169%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-51%2F45+-blue)
+![Streak](https://img.shields.io/badge/Streak-51%20days-orange)
 
 ---
 
