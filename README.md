@@ -184,6 +184,13 @@
 | 51 | Jul 21, 2026 | Graph Part-II | Floyd Warshall Algorithm | Medium | ✅ |
 | 51 | Jul 21, 2026 | Graph Part-II | MST using Prim's Algorithm | Hard | ✅ |
 | 51 | Jul 21, 2026 | Graph Part-II | MST using Kruskal's Algorithm | Hard | ✅ |
+| 52 | Jul 22, 2026 | Dynamic Programming | Maximum Product Subarray | Hard | ✅ |
+| 52 | Jul 22, 2026 | Dynamic Programming | Longest Increasing Subsequence | Medium | ✅ |
+| 52 | Jul 22, 2026 | Dynamic Programming | Longest Common Subsequence | Hard | ✅ |
+| 53 | Jul 23, 2026 | Dynamic Programming | 0/1 Knapsack | Hard | ✅ |
+| 53 | Jul 23, 2026 | Dynamic Programming | Edit Distance | Hard | ✅ |
+| 53 | Jul 23, 2026 | Dynamic Programming | Maximum Sum Increasing Subsequence | Medium | ✅ |
+| 53 | Jul 23, 2026 | Dynamic Programming | Matrix Chain Multiplication | Hard | ✅ |
 
 ---
 
@@ -215,14 +222,17 @@
 | 22 | Binary Trees Miscellaneous | 6 | 6 | ✅ Done |
 | 23 | Graph | 12 | 12 | ✅ Done |
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
+| 25 | Dynamic Programming | 7 | 7 | ✅ Done |
+| 26 | Dynamic Programming Part-II | 8 | 0 | ⏳ In Progress |
+| 27 | Trie | 7 | 0 | ⏳ In Progress |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-169%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-51%2F45+-blue)
-![Streak](https://img.shields.io/badge/Streak-51%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-176%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-53%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-53%20days-orange)
 
 ---
 
