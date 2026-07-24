@@ -1,5 +1,5 @@
 # 🔥 #SDESheetChallenge — Gaurav Upadhyay
-> Publicly committing to complete **Striver's SDE Sheet** in **45 days**
+> Publicly documenting my journey to complete **Striver's SDE Sheet**
 > 191 Problems | Started: June 1, 2026
 
 ---
@@ -191,6 +191,9 @@
 | 53 | Jul 23, 2026 | Dynamic Programming | Edit Distance | Hard | ✅ |
 | 53 | Jul 23, 2026 | Dynamic Programming | Maximum Sum Increasing Subsequence | Medium | ✅ |
 | 53 | Jul 23, 2026 | Dynamic Programming | Matrix Chain Multiplication | Hard | ✅ |
+| 54 | Jul 24, 2026 | Dynamic Programming Part-II | Minimum Sum Path | Medium | ✅ |
+| 54 | Jul 24, 2026 | Dynamic Programming Part-II | Coin Change II | Medium | ✅ |
+| 54 | Jul 24, 2026 | Dynamic Programming Part-II | Subset Sum Equals Target | Medium | ✅ |
 
 ---
 
@@ -223,16 +226,16 @@
 | 23 | Graph | 12 | 12 | ✅ Done |
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
 | 25 | Dynamic Programming | 7 | 7 | ✅ Done |
-| 26 | Dynamic Programming Part-II | 8 | 0 | ⏳ In Progress |
+| 26 | Dynamic Programming Part-II | 8 | 3 | ⏳ In Progress |
 | 27 | Trie | 7 | 0 | ⏳ In Progress |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-176%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-53%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-53%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-179%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-54%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-54%20days-orange)
 
 ---
 
