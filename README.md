@@ -194,6 +194,9 @@
 | 54 | Jul 24, 2026 | Dynamic Programming Part-II | Minimum Sum Path | Medium | ✅ |
 | 54 | Jul 24, 2026 | Dynamic Programming Part-II | Coin Change II | Medium | ✅ |
 | 54 | Jul 24, 2026 | Dynamic Programming Part-II | Subset Sum Equals Target | Medium | ✅ |
+| 55 | Jul 25, 2026 | Dynamic Programming Part-II | Rod Cutting Problem | Hard | ✅ |
+| 55 | Jul 25, 2026 | Dynamic Programming Part-II | Super Egg Drop | Medium | ✅ |
+| 55 | Jul 25, 2026 | Dynamic Programming Part-II | Word Break | Medium | ✅ |
 
 ---
 
@@ -226,16 +229,16 @@
 | 23 | Graph | 12 | 12 | ✅ Done |
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
 | 25 | Dynamic Programming | 7 | 7 | ✅ Done |
-| 26 | Dynamic Programming Part-II | 8 | 3 | ⏳ In Progress |
+| 26 | Dynamic Programming Part-II | 8 | 6 | ⏳ In Progress |
 | 27 | Trie | 7 | 0 | ⏳ In Progress |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-179%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-54%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-54%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-182%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-55%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-55%20days-orange)
 
 ---
 
