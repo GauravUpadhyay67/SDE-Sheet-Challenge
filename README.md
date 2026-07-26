@@ -197,6 +197,8 @@
 | 55 | Jul 25, 2026 | Dynamic Programming Part-II | Rod Cutting Problem | Hard | ✅ |
 | 55 | Jul 25, 2026 | Dynamic Programming Part-II | Super Egg Drop | Medium | ✅ |
 | 55 | Jul 25, 2026 | Dynamic Programming Part-II | Word Break | Medium | ✅ |
+| 56 | Jul 26, 2026 | Dynamic Programming Part-II | Palindrome Partitioning II | Hard | ✅ |
+| 56 | Jul 26, 2026 | Dynamic Programming Part-II | Maximum Profit in Job Scheduling | Hard | ✅ |
 
 ---
 
@@ -229,16 +231,16 @@
 | 23 | Graph | 12 | 12 | ✅ Done |
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
 | 25 | Dynamic Programming | 7 | 7 | ✅ Done |
-| 26 | Dynamic Programming Part-II | 8 | 6 | ⏳ In Progress |
+| 26 | Dynamic Programming Part-II | 8 | 8 | ✅ Done |
 | 27 | Trie | 7 | 0 | ⏳ In Progress |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-182%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-55%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-55%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-184%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-56%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-56%20days-orange)
 
 ---
 
