@@ -201,6 +201,9 @@
 | 56 | Jul 26, 2026 | Dynamic Programming Part-II | Maximum Profit in Job Scheduling | Hard | ✅ |
 | 57 | Jul 27, 2026 | Trie | Implement Trie (Prefix Tree) | Medium | ✅ |
 | 57 | Jul 27, 2026 | Trie | Implement Trie II | Hard | ✅ |
+| 58 | Jul 28, 2026 | Trie | Complete String (Longest Word with All Prefixes) | Medium | ✅ |
+| 58 | Jul 28, 2026 | Trie | Count Distinct Substrings | Medium | ✅ |
+| 58 | Jul 28, 2026 | Trie | Power Set | Medium | ✅ |
 
 ---
 
@@ -234,15 +237,15 @@
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
 | 25 | Dynamic Programming | 7 | 7 | ✅ Done |
 | 26 | Dynamic Programming Part-II | 8 | 8 | ✅ Done |
-| 27 | Trie | 7 | 2 | ⏳ In Progress |
+| 27 | Trie | 7 | 5 | ⏳ In Progress |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-186%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-57%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-57%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-189%2F191-brightgreen)
+![Days Completed](https://img.shields.io/badge/Day-58%2F60-blue)
+![Streak](https://img.shields.io/badge/Streak-58%20days-orange)
 
 ---
 
