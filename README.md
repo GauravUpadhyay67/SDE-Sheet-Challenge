@@ -1,6 +1,10 @@
 # 🔥 #SDESheetChallenge — Gaurav Upadhyay
 > Publicly documenting my journey to complete **Striver's SDE Sheet**
-> 191 Problems | Started: June 1, 2026
+> ✅ Challenge Completed
+>
+> 191 / 191 Problems Solved
+>
+> Started: June 1, 2026 • Completed: July 29, 2026
 
 ---
 
@@ -204,6 +208,8 @@
 | 58 | Jul 28, 2026 | Trie | Complete String (Longest Word with All Prefixes) | Medium | ✅ |
 | 58 | Jul 28, 2026 | Trie | Count Distinct Substrings | Medium | ✅ |
 | 58 | Jul 28, 2026 | Trie | Power Set | Medium | ✅ |
+| 59 | Jul 29, 2026 | Trie | Maximum XOR of Two Numbers in an Array | Hard | ✅ |
+| 59 | Jul 29, 2026 | Trie | Maximum XOR With an Element From Array | Hard | ✅ |
 
 ---
 
@@ -237,15 +243,15 @@
 | 24 | Graph Part-II | 6 | 6 | ✅ Done |
 | 25 | Dynamic Programming | 7 | 7 | ✅ Done |
 | 26 | Dynamic Programming Part-II | 8 | 8 | ✅ Done |
-| 27 | Trie | 7 | 5 | ⏳ In Progress |
+| 27 | Trie | 7 | 7 | ✅ Done |
 
 ---
 
 ## 🏆 Stats
 
-![Problems Solved](https://img.shields.io/badge/Solved-189%2F191-brightgreen)
-![Days Completed](https://img.shields.io/badge/Day-58%2F60-blue)
-![Streak](https://img.shields.io/badge/Streak-58%20days-orange)
+![Problems Solved](https://img.shields.io/badge/Solved-191%2F191-success)
+![Days Completed](https://img.shields.io/badge/Day-59%2F59-success)
+![Streak](https://img.shields.io/badge/Streak-59%20days-success)
 
 ---
 
@@ -258,3 +264,27 @@
 ---
 
 *"Consistency > Intensity"* 💪
+
+## 🎉 Challenge Completed
+
+✅ Solved all **191 problems** from Striver's SDE Sheet.
+
+### What I Learned
+
+- Arrays
+- Linked Lists
+- Recursion & Backtracking
+- Binary Search
+- Stack & Queue
+- Trees & BST
+- Graphs
+- Dynamic Programming
+- Tries
+- Greedy Algorithms
+- Strings
+- Heaps
+- Bit Manipulation
+
+This challenge strengthened my problem-solving skills, consistency, and understanding of core Data Structures & Algorithms concepts for software engineering interviews.
+
+⭐ If you found this repository helpful, consider giving it a star!
